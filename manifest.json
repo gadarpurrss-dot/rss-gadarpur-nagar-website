@@ -1,0 +1,12 @@
+{
+  "name": "राष्ट्रीय स्वयंसेवक संघ – गदरपुर नगर",
+  "short_name": "RSS Gadarpur",
+  "description": "गदरपुर नगर की सार्वजनिक सूचनाएँ और गतिविधियाँ",
+  "lang": "hi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf2",
+  "theme_color": "#b45309",
+  "icons": []
+}
